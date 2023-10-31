@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7123309d-90bd-4d44-b564-efc561576e5e" name="Changes" comment="Restored the order package and its classes (Order, LineItem and Product">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandler/ContentFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandler/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileHandler/FileWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/AutoCloseFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandlerSolution/AutoCloseFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fileHandler/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fileHandler/FileHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2WuQzns2EMjJLuwZtbKMPCtc0bZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +46,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/billf/OneDrive/Desktop/BitbucketTest/quicktest",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Bilal/OneDrive/dev/workspace/SOLIDDesignPrinciples",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
